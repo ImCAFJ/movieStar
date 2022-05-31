@@ -1,3 +1,3 @@
 ### PROJECT IN PHP ###
 
-###  this is my startup website built in php to publicize my services  ###
+###  This project was built on the OOP PHP course  ###
